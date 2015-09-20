@@ -1,5 +1,5 @@
 {
-	"name":        "kohana/cache",
+	"name":        "tscms/cache",
 	"type":        "kohana-module",
 	"description": "The official Kohana cache management module",
 	"homepage":    "http://kohanaframework.org",
@@ -21,14 +21,8 @@
 	},
 	"require": {
 		"composer/installers": "~1.0",
-		"kohana/core":         ">=3.3",
 		"php":                 ">=5.3.3"
 	},
-    "require-dev": {
-        "kohana/core":         "3.3.*@dev",
-        "kohana/unittest":     "3.3.*@dev",
-        "kohana/koharness":    "*@dev"
-    },
 	"extra": {
 		"branch-alias": {
 			"dev-3.3/develop": "3.3.x-dev",
