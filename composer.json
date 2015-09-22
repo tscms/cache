@@ -21,8 +21,8 @@
 	},
 	"require": {
 		"composer/installers": "~1.0",
-		"php":                 ">=5.3.3",
-		"tscms/unittest" : "3.3"
+		"php":                 ">=5.3.3"
+
 	},
 	"extra": {
 		"branch-alias": {
