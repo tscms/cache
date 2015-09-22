@@ -21,8 +21,7 @@
 	},
 	"require": {
 		"composer/installers": "~1.0",
-		"php":                 ">=5.3.3",
-		"tscms/unittest": "dev-3.3/master"
+		"php":                 ">=5.4"
 
 	},
 	"extra": {
